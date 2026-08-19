@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Le Tornado Burger (Signature Zink)",
+    "description": "Double steak haché pur bœuf Angus maturé au grill, oignons caramélisés maison, double cheddar coulant et sauce secrète Zink sur pain brioché sésame artisanal.",
+    "price": 41.90,
+    "category": "Signatures",
+    "subcategory": "SIGNATURES",
+    "isSignature": true,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun brioché sésame toasté", "Double steak Angus maturé 2x150g", "Double cheddar affiné", "Oignons caramélisés au thym", "Pickles maison", "Sauce secrète Zink"],
+    "allergens": ["Gluten", "Lait", "Moutarde", "Œufs", "Sésame"],
+    "preparationTime": 14,
+    "customizations": [
+      {
+        "name": "Cuisson du steak Angus",
+        "options": [
+          { "name": "Saignant (Conseillé)", "extraPrice": 0 },
+          { "name": "À point", "extraPrice": 0 },
+          { "name": "Bien cuit", "extraPrice": 0 }
+        ]
+      },
+      {
+        "name": "Suppléments Gourmands Zink",
+        "options": [
+          { "name": "Cheddar 12 mois supplémentaire", "extraPrice": 4.50 },
+          { "name": "Bacon croustillant au bois de hêtre", "extraPrice": 5.50 },
+          { "name": "Steak Angus maturé supplémentaire (Triple Tornado)", "extraPrice": 14.50 },
+          { "name": "Sauce Zink supplémentaire", "extraPrice": 2.50 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Deluxe Burger Angus Supreme",
+    "description": "Steak Angus grillé minute, tranches de poitrine de lard fumé (bacon croustillant), cheddar affiné, poêlée de champignons de bois au beurre et herbes fraîches.",
+    "price": 35.90,
+    "category": "Signatures",
+    "subcategory": "SIGNATURES",
+    "isSignature": true,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun brioché toasté", "Steak bœuf Angus 180g", "Bacon fumé croustillant", "Cheddar affiné", "Poêlée de champignons forestiers au beurre persillé", "Sauce Gourmet"],
+    "allergens": ["Gluten", "Lait", "Œufs"],
+    "preparationTime": 13,
+    "customizations": [
+      {
+        "name": "Cuisson du steak Angus",
+        "options": [
+          { "name": "Saignant", "extraPrice": 0 },
+          { "name": "À point (Conseillé)", "extraPrice": 0 },
+          { "name": "Bien cuit", "extraPrice": 0 }
+        ]
+      },
+      {
+        "name": "Suppléments",
+        "options": [
+          { "name": "Double Bacon", "extraPrice": 5.50 },
+          { "name": "Tranche de cheddar en plus", "extraPrice": 4.50 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "La Truffe Noire Gourmet Burger",
+    "description": "Pur bœuf Angus saisi au grill, émulsion crémeuse à la truffe noire d'été, fromage suisse affiné coulant et jeunes pousses de roquette sur pain brioché doré au four.",
+    "price": 33.90,
+    "category": "Signatures",
+    "subcategory": "SIGNATURES",
+    "isSignature": true,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun brioché au beurre", "Steak Angus 180g", "Fromage suisse affiné", "Mayonnaise à la truffe noire d'été", "Roquette fraîche", "Oignons confits balsamique"],
+    "allergens": ["Gluten", "Lait", "Œufs"],
+    "preparationTime": 12,
+    "customizations": [
+      {
+        "name": "Cuisson du steak",
+        "options": [
+          { "name": "Saignant (Conseillé)", "extraPrice": 0 },
+          { "name": "À point", "extraPrice": 0 },
+          { "name": "Bien cuit", "extraPrice": 0 }
+        ]
+      },
+      {
+        "name": "Suppléments Truffe",
+        "options": [
+          { "name": "Dose de sauce truffée supplémentaire", "extraPrice": 4.00 },
+          { "name": "Fromage suisse en plus", "extraPrice": 4.50 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Rossini Foie Gras Burger",
+    "description": "L'expérience suprême Zink : steak de bœuf maturé grillé à la perfection, escalope de foie gras de canard poêlée au piment d'Espelette, confit de figues violettes et réduction de sauce au porto.",
+    "price": 38.90,
+    "category": "Signatures",
+    "subcategory": "SIGNATURES",
+    "isSignature": true,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun brioché d'artisan", "Steak Angus maturé 180g", "Escalope de foie gras poêlée minute", "Confit de figues", "Réduction de sauce au porto", "Fleur de sel"],
+    "allergens": ["Gluten", "Lait", "Sulfites"],
+    "preparationTime": 15,
+    "customizations": [
+      {
+        "name": "Cuisson du steak",
+        "options": [
+          { "name": "Saignant (Recommandé par le Chef)", "extraPrice": 0 },
+          { "name": "À point", "extraPrice": 0 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Bellucci Gorgonzola AOP",
+    "description": "Bœuf Angus grillé minute, crème de gorgonzola AOP italienne fondue, cerneaux de noix torréfiés croquants et pousses de roquette sur bun brioché.",
+    "price": 29.90,
+    "category": "Classiques",
+    "subcategory": "CLASSIQUES",
+    "isSignature": false,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun brioché", "Steak Angus 180g", "Crème de gorgonzola AOP", "Noix torréfiées", "Roquette"],
+    "allergens": ["Gluten", "Lait", "Fruits à coque"],
+    "preparationTime": 12,
+    "customizations": [
+      {
+        "name": "Cuisson du steak",
+        "options": [
+          { "name": "Saignant", "extraPrice": 0 },
+          { "name": "À point (Conseillé)", "extraPrice": 0 },
+          { "name": "Bien cuit", "extraPrice": 0 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Zinkoholic Bourbon BBQ",
+    "description": "Steak juteux 180g, double cheddar affiné, beignets d'oignons croustillants maison et réduction intense de sauce barbecue au bourbon fumé.",
+    "price": 32.90,
+    "category": "Classiques",
+    "subcategory": "CLASSIQUES",
+    "isSignature": false,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun sésame", "Steak Angus 180g", "Double cheddar", "Onion rings croustillants", "Sauce Bourbon BBQ"],
+    "allergens": ["Gluten", "Lait"],
+    "preparationTime": 13,
+    "customizations": [
+      {
+        "name": "Cuisson du steak",
+        "options": [
+          { "name": "Saignant", "extraPrice": 0 },
+          { "name": "À point", "extraPrice": 0 },
+          { "name": "Bien cuit", "extraPrice": 0 }
+        ]
+      },
+      {
+        "name": "Suppléments",
+        "options": [
+          { "name": "Double Bacon", "extraPrice": 5.50 },
+          { "name": "Rondelles d'oignons en plus", "extraPrice": 3.50 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Cheeseburger Classique Zink",
+    "description": "Le classique indémodable du Zink : bœuf Angus maturé smashé, double cheddar coulant, pickles de concombre maison, oignons rouges émincés et sauce secrète Zink.",
+    "price": 24.90,
+    "category": "Classiques",
+    "subcategory": "CLASSIQUES",
+    "isSignature": false,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun brioché", "Steak smashé pur bœuf", "Double cheddar coulant", "Pickles", "Oignons rouges", "Sauce Zink"],
+    "allergens": ["Gluten", "Lait", "Moutarde", "Œufs"],
+    "preparationTime": 10,
+    "customizations": [
+      {
+        "name": "Option Smash",
+        "options": [
+          { "name": "Simple Smash (Original)", "extraPrice": 0 },
+          { "name": "Double Smash (+1 steak)", "extraPrice": 8.00 },
+          { "name": "Triple Smash (+2 steaks)", "extraPrice": 15.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Crunchy Crispy Chicken",
+    "description": "Généreux filet de poulet fermier pané aux épices cajun et chapelure panko croustillante, purée d'avocat fraîche, tomates juteuses et sauce ranch maison.",
+    "price": 26.90,
+    "category": "Poulet",
+    "subcategory": "POULET",
+    "isSignature": false,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1625813506062-0aeb1d7a094b?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun sésame", "Filet de poulet pané cajun", "Purée d'avocat", "Tomates fraîches", "Sauce Ranch crémeuse"],
+    "allergens": ["Gluten", "Lait", "Œufs"],
+    "preparationTime": 11,
+    "customizations": [
+      {
+        "name": "Choix de sauce pimentée",
+        "options": [
+          { "name": "Sans piment (Original doux)", "extraPrice": 0 },
+          { "name": "Légèrement épicé Sriracha", "extraPrice": 0 },
+          { "name": "Très piquant Buffalo", "extraPrice": 1.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Le Spicy Buffalo Chicken",
+    "description": "Filet de poulet croustillant enrobé de sauce pimentée Buffalo de Louisiane, coleslaw maison rafraîchissant, pickles et sauce blue cheese.",
+    "price": 27.90,
+    "category": "Poulet",
+    "subcategory": "POULET",
+    "isSignature": false,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun brioché", "Poulet frit Buffalo", "Coleslaw maison croquant", "Pickles", "Sauce au fromage bleu"],
+    "allergens": ["Gluten", "Lait", "Œufs"],
+    "preparationTime": 12
+  },
+  {
+    "name": "Le Portobello Veggie Grill",
+    "description": "Chapeau de grand champignon Portobello rôti au four, steak végétal gourmet aux protéines de pois, fromage de chèvre affiné rôti, pesto maison et jeunes pousses.",
+    "price": 26.90,
+    "category": "Végétariens",
+    "subcategory": "VÉGÉTARIENS",
+    "isSignature": false,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Bun aux céréales et graines", "Chapeau de champignon Portobello rôti", "Steak végétal", "Fromage de chèvre affiné", "Pesto basilic maison", "Roquette"],
+    "allergens": ["Gluten", "Lait", "Fruits à coque"],
+    "preparationTime": 12
+  },
+  {
+    "name": "La Poutine Québécoise Zink",
+    "description": "Le plat iconique et légendaire du Zink : frites artisanales croustillantes taillées au couteau, véritable fromage en grains (squeaky cheese authentique) et généreuse sauce brune gravy chaude maison parfumée aux épices.",
+    "price": 24.90,
+    "category": "Accompagnements",
+    "subcategory": "POUTINE",
+    "isSignature": true,
+    "isVegetarian": false,
+    "image": "https://images.unsplash.com/photo-1585109649139-366815a0d713?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Frites fraîches maison", "Véritable fromage en grains québécois", "Sauce brune gravy chaude secrète Zink"],
+    "allergens": ["Gluten", "Lait"],
+    "preparationTime": 10,
+    "customizations": [
+      {
+        "name": "Taille et suppléments Poutine",
+        "options": [
+          { "name": "Format Classique (Généreux)", "extraPrice": 0 },
+          { "name": "Supplément Bacon croustillant", "extraPrice": 5.50 },
+          { "name": "Supplément Effiloché de Bœuf (Pulled Beef)", "extraPrice": 8.50 },
+          { "name": "Supplément Double Fromage en grains", "extraPrice": 6.50 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Les Frites Truffe & Parmesan",
+    "description": "Frites fraîches maison taillées au couteau, dorées à la perfection et enrobées d'huile de truffe blanche italienne, de copeaux de parmesan 24 mois d'affinage et de persil plat fraîchement haché.",
+    "price": 16.90,
+    "category": "Accompagnements",
+    "subcategory": "FRITES",
+    "isSignature": false,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Pommes de terre fraîches", "Huile infusée à la truffe blanche", "Parmesan 24 mois", "Persil frais", "Fleur de sel"],
+    "allergens": ["Lait"],
+    "preparationTime": 8,
+    "customizations": [
+      {
+        "name": "Sauce au choix offerte",
+        "options": [
+          { "name": "Mayonnaise maison à la truffe", "extraPrice": 0 },
+          { "name": "Sauce Zink originale", "extraPrice": 0 },
+          { "name": "Ketchup gourmet", "extraPrice": 0 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Les Onion Rings Croustillants",
+    "description": "Généreuses rondelles d'oignons doux frais enrobées d'une pâte à beignet dorée et ultra croustillante, servies par 8 avec notre sauce barbecue au bourbon maison.",
+    "price": 14.90,
+    "category": "Accompagnements",
+    "subcategory": "FINGER FOOD",
+    "isSignature": false,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1639024471283-03518883512d?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Oignons doux frais", "Pâte à beignet dorée", "Sauce Bourbon BBQ"],
+    "allergens": ["Gluten"],
+    "preparationTime": 7
+  },
+  {
+    "name": "Mozzarella Sticks Maison (6 pièces)",
+    "description": "Bâtonnets de mozzarella italienne filante panés aux herbes méditerranéennes et chapelure croustillante, servis chauds avec notre coulis de tomate basilic maison.",
+    "price": 15.90,
+    "category": "Accompagnements",
+    "subcategory": "FINGER FOOD",
+    "isSignature": false,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1531749668029-2db88e4276c7?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Mozzarella fior di latte", "Chapelure aux herbes", "Coulis de tomate basilic"],
+    "allergens": ["Gluten", "Lait"],
+    "preparationTime": 7
+  },
+  {
+    "name": "Limonade Artisanale Menthe & Citron (40cl)",
+    "description": "Citrons jaunes et verts fraîchement pressés minute, feuilles de menthe bio pilée, sirop de sucre de canne pur et eau pétillante bien glacée.",
+    "price": 8.90,
+    "category": "Boissons",
+    "subcategory": "FAIT MAISON",
+    "isSignature": true,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Jus de citron fraîchement pressé", "Menthe fraîche bio", "Sucre de canne pur", "Eau pétillante"],
+    "allergens": [],
+    "preparationTime": 3
+  },
+  {
+    "name": "Thé Glacé Pêche Maison (40cl)",
+    "description": "Infusion froide de thé noir de Ceylan bio, purée de pêche jaune naturelle, trait de citron frais et feuilles de menthe.",
+    "price": 8.90,
+    "category": "Boissons",
+    "subcategory": "FAIT MAISON",
+    "isSignature": false,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1556881286-fc6915169721?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Thé noir infusé à froid", "Purée de pêche jaune naturelle", "Citron fraîchement pressé", "Menthe fraîche"],
+    "allergens": [],
+    "preparationTime": 3
+  },
+  {
+    "name": "Soda Artisanal & Classiques (33cl)",
+    "description": "Choix de sodas bien frais servis en bouteille verre : Coca-Cola, Coca-Cola Zéro, Boga Cidre, Boga Lim, ou Schweppes.",
+    "price": 6.50,
+    "category": "Boissons",
+    "subcategory": "SODAS",
+    "isSignature": false,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Eau gazéifiée", "Extraits naturels"],
+    "allergens": [],
+    "preparationTime": 1,
+    "customizations": [
+      {
+        "name": "Choix de la boisson",
+        "options": [
+          { "name": "Coca-Cola Classique", "extraPrice": 0 },
+          { "name": "Coca-Cola Zéro", "extraPrice": 0 },
+          { "name": "Boga Cidre Tunisienne", "extraPrice": 0 },
+          { "name": "Boga Lim Tunisienne", "extraPrice": 0 },
+          { "name": "Eau Minérale Glacée 50cl", "extraPrice": -2.00 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cookie Mi-Cuit Chocolat & Noisettes du Zink",
+    "description": "Cookie géant artisanal servi tiède au cœur coulant, pépites de chocolat au lait intense, éclats de noisettes torréfiées et pointe de fleur de sel, accompagné ou non d'une boule de glace.",
+    "price": 12.90,
+    "category": "Desserts",
+    "subcategory": "DESSERTS",
+    "isSignature": true,
+    "isVegetarian": true,
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=80",
+    "ingredients": ["Farine bio", "Beurre d'artisan demi-sel", "Pépites de chocolat au lait et noir", "Noisettes torréfiées", "Fleur de sel de Guérande"],
+    "allergens": ["Gluten", "Lait", "Œufs", "Fruits à coque"],
+    "preparationTime": 5,
+    "customizations": [
+      {
+        "name": "Gourmandise supplémentaire",
+        "options": [
+          { "name": "Servi tiède nature (Original)", "extraPrice": 0 },
+          { "name": "Avec boule de glace vanille de Madagascar (+3.50 DT)", "extraPrice": 3.50 },
+          { "name": "Nappage chocolat au lait tiède en plus (+2.50 DT)", "extraPrice": 2.50 }
+        ]
+      }
+    ]
+  }
+]
