@@ -49,7 +49,7 @@ const AppContent = () => {
   }, [pathname]);
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#0B0B0E] text-white selection:bg-[#F59E0B] selection:text-black">
+    <div className="min-h-screen flex flex-col bg-transparent text-white selection:bg-[#F59E0B] selection:text-black">
       <ScrollToTop />
 
       {/* Bandeau d'alerte en direct contrôlé par l'administrateur */}

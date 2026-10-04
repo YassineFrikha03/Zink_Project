@@ -185,7 +185,7 @@ const CustomBurger = () => {
 
   /* ------ UI ------ */
   return (
-    <div className="min-h-screen bg-[#0B0B0E] text-white pt-24 pb-16 overflow-x-hidden font-body relative">
+    <div className="min-h-screen bg-transparent text-white pt-24 pb-16 overflow-x-hidden font-body relative">
 
       {/* Ambient glows */}
       <div className="fixed top-1/4 left-1/4 w-[500px] h-[500px] bg-[#F59E0B]/5 rounded-full blur-[180px] pointer-events-none -z-0" />

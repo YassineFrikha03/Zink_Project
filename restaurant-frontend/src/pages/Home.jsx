@@ -147,7 +147,7 @@ const Home = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-[#0B0B0E] text-white pt-24 pb-20 overflow-hidden font-body relative">
+    <div className="min-h-screen bg-transparent text-white pt-24 pb-20 overflow-hidden font-body relative">
       
       {/* Texture de fond générale */}
       <div className="absolute inset-0 bg-grid-pattern opacity-10 pointer-events-none" />
